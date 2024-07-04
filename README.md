@@ -2,4 +2,5 @@ leak SupremBots
 
 # run
 
-- ur competances
+- npm i
+- node .
